@@ -2,11 +2,21 @@
 a list of uri for call common apps from other apps
 
 ## Content
-- [Library and Frameworks](#libraries-and-frameworks)
-    - [Analytics](#analytics)
-
+- [Chat](#chat)
+    - [Telegram](#telegram)
+- [Social](#social)
+    - [Facebook](#facebook)
 ***
 
-# Libraries And Frameworks
+# Chat
 
-## Analytics
+## Telegram
+**URI**: tg
+**Commands**:
+- tg://resolve?domain=name	Open a profile/channel
+- tg://msg_url?url=https...&text=message	Send a message with a link
+
+# Social
+
+## Facebook
+**URI**: fb
