@@ -11,8 +11,7 @@ a list of uri for call common apps from other apps
 # Chat
 
 ## Telegram
-**URI**: tg
-
+**URI**: tg  
 **Commands**:
 - tg://resolve?domain=name	Open a profile/channel
 - tg://msg_url?url=https...&text=message	Send a message with a link
