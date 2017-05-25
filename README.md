@@ -129,3 +129,6 @@ a list of uri for call common apps from other apps
 
 ## Wikipedia App
 **URI**: wikipedia
+
+## SNCF App
+**URI**: sncf
